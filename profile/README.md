@@ -1,3 +1,4 @@
+# About Us
 The Zero Emission Bus Resource Alliance (ZEBRA) is a professional association for transit agencies in the U.S. and Canada to share lessons learned about zero-emission buses (ZEBs). Founders envisioned ZEBRA as a group of transit leaders exchanging information without the involvement of manufacturers or outside groups. Since 2015, we have been providing members access to peer information and shared research on clean transit and emerging zero-emission technology.
 
 # Our Mission
